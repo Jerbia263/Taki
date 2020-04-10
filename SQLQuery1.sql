@@ -1,0 +1,2 @@
+﻿INSERT INTO Users(Name) VALUES('ALON')
+SELECT * FROM Users WHERE Name= 'Alon'
